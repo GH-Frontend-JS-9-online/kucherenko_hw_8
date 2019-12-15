@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Tamagochi</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div class="container">
+		<div id="displayImage">
+			<img src="img/100%.gif" class="cat" id="cat" alt="image">
+			<button class="start-button" id="start" onclick="checkGame()">
+				Start
+			</button>
+			<div id="help"></div>
+			<select class="select" id="levelup">
+		        <option  value="1">
+		            Easy
+		        </option>
+		        <option  value="0">
+		            Hard
+		        </option>
+	    	</select>
+	    	<input class="restart" type='button' onclick='window.location.reload()'  value ='Restart' />
+	    </div>
+	    <h3><div id="message"></div></h3>
+	    <div id="score">SCORE: 0</div>  
+		<div id="blockImage">
+		    <div id="loadBar">
+		    <div class="blockLoad">
+		    	<strong>
+			    	Food:
+			    </strong>
+			    <div class="wrapper">
+			    	<div id="food" class="load">
+			    		 100%
+			    	</div>
+			    </div>
+		    </div>
+		    <div class="blockLoad"><strong>Clean:</strong>
+		    	<div class="wrapper">
+		    		<div id="clean" class="load"> 
+		    			100%
+		    		</div>
+		    	</div>
+		    </div>
+		    <div class="blockLoad">
+		    	<strong>
+			    	Happiness:
+			    </strong>
+			    <div class="wrapper">
+			    	<div id="happiness" class="load"> 
+			    		100%
+			    	</div>
+			    </div>
+		      </div>
+		    </div>
+		    <div id="blockButton">
+		      <button class="button" id="eat">Eat</button>
+		      <button class="button" id="wash">Wash</button>
+		      <button class="button" id="run">Run</button>
+		    </div>
+	  </div>
+  </div>
+  <script src="js/main.js"></script>
+</body>
+</html>
