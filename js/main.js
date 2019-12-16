@@ -84,7 +84,7 @@ function rewriteHappinessStyle(x){
 function Loop(){
   let sum = food + clean + happiness;
   if (sum >210){
-    document.getElementById("cat").src="img/70%.gif";
+    document.getElementById("cat").src="img/almostgood.gif";
     document.getElementById('help').innerHTML = '  ';
   } else if(food <= clean && food <= happiness){
      document.getElementById("cat").src="img/wantEat.gif";
@@ -93,7 +93,7 @@ function Loop(){
      document.getElementById("cat").src="img/wantClean.gif";
      document.getElementById('help').innerHTML = 'Clean my bad! Please...';
   } else if(happiness < food && happiness <  clean){
-     document.getElementById("cat").src="img/50%.gif";
+     document.getElementById("cat").src="img/wantrun.gif";
       document.getElementById('help').innerHTML = 'Please... Play with me!';
   }
   food = food - parseInt(time);
