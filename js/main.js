@@ -1,6 +1,6 @@
- let food = 0;
-    let clean =0;
-    let happiness =0;
+let food = 0;
+let clean =0;
+let happiness =0;
 let time=1;
 function checkGame() {
     let e = document.getElementById("levelup");
