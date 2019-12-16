@@ -48,32 +48,32 @@ d. **Functional Programming**
 e. **Scope**
 -----------------
 #### I. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/9tJ97HK3c4Koy3KsF
+2. Solution: https://www.dropbox.com/s/uh0i7lxsrmlaz00/Scope1.png?dl=0
 
 #### II. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/ejzLBYvAtAiKk9HnP
+2. Solution: https://www.dropbox.com/s/vxb0c3timt0ct46/Scope2.png?dl=0
 ***
 
 f. **Objects**
 -----------------
 #### I. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
+2. Solution:https://www.dropbox.com/s/lz70x23fwkb3oh8/Objects1.png?dl=0
 
 #### II. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/vPmDvWoP2wj5KpWZi
+2. Solution: https://www.dropbox.com/s/su4bwgveufb5ngv/Objects2.png?dl=0
 ***
 
 g. **Classes**
 -----------------
 #### I. Challenge
 1. URL: https://edabit.com/challenge/Hgb38yhWGwJCMHbRQ
-2. Solution: https://www.dropbox.com/s/797cvtejve9mqv3/Classes1.png?dl=0
+2. Solution: https://www.dropbox.com/s/yhpz7jdcr4fs020/Classes1.png?dl=0
 
 #### II. Challenge
-1. URL: 
-2. Solution: 
+1. URL: https://edabit.com/challenge/s5Sz2ovKsvtGxNGgn
+2. Solution: https://www.dropbox.com/s/uva0h2chn83aj1e/Classes2.png?dl=0
 ***
